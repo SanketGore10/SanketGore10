@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Sanket Gore
-- 🌱 I’m currently learning Data Analysis | DS | ML | DL | AI
-- 📫 You can connect with me via this https://bio.link/sanketgore
+- - 👀 I’m interested in data science, machine learning and artificial intelligence
+- 🌱 I’m currently looking job for data scientist, machine learning engeneer or artificial intelligence engeneer
+- 📫 You can reach me through my email : sanketgore1998@gmail.com <!---https://bio.link/sanketgore--->
 <!---
-- 👀 I’m interested in ...
+
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
