@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sanket Gore
 - 👀 I’m interested in data science, machine learning and artificial intelligence
 - 🌱 I’m currently looking job for data scientist, machine learning engeneer or artificial intelligence engeneer
+- 👨‍💻 Enthusiastic and curious to learn new skills !!
 - 📫 You can reach me through my email : sanketgore1998@gmail.com 
 <!---
 
