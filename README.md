@@ -9,7 +9,7 @@
 
 #Here are some of my top Projects'
 
-###Here are some of my `?Machine Learning` and `?Deep Learning`
+###Here are some of my `Machine Learning` and `Deep Learning` Projects
 
 <!-- Change the `?username=` value to your GitHub username. -->
 
