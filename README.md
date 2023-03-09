@@ -3,12 +3,18 @@
 - 🌱 I’m currently looking job for data scientist, machine learning engeneer or artificial intelligence engeneer
 - 📄 Know about my experiences Linkedin
 - 👨‍💻 Enthusiastic and curious to learn new skills !!
-- 📫 You can reach me through my email : sanketgore1998@gmail.com 
+- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/sanket-gore-95bb49177/) 
 - 📚 I am looking forward to enhance my knowledge by learning new skills and grow in the tech fields.
 
 
+#Here are some of my top Projects'
 
-  <p align="center">
+###Here are some of my `?Machine Learning` and `?Deep Learning`
+
+<!-- Change the `?username=` value to your GitHub username. -->
+
+
+<!--   <p align="center">
     <a href="https://github.com/SanketGore10/github-readme-stats/actions">
       <img alt="Tests Passing" src="https://github.com/SanketGore10/github-readme-stats/workflows/Test/badge.svg" />
     </a>
@@ -24,7 +30,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
-  </p>
+  </p> -->
 <!---
 
 
