@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sanket Gore
+<!-- - 👋 Hi, I’m Sanket Gore
 - 👀 I’m interested in data science, machine learning and artificial intelligence
 - 🌱 I’m currently looking job for data scientist, machine learning engeneer or artificial intelligence engeneer
 - 📄 Know about my experiences Linkedin
@@ -9,7 +9,7 @@
 #Here are some of my top Projects
 
 ###Here are some of my `Machine Learning` and `Deep Learning` Projects
-
+ -->
 # Sanket Gore
 
 ## About Me
@@ -25,7 +25,7 @@ Hello there! I'm Sanket Gore, a passionate Flutter developer and data science en
 
 ## Projects
 
-### Diabetes Detection
+### [Diabetes Detection]
 - Developed a machine learning model to predict the presence of diabetes based on various health attributes.
 - Implemented the model in a user-friendly Flutter application for easy accessibility.
 
@@ -58,7 +58,8 @@ Hello there! I'm Sanket Gore, a passionate Flutter developer and data science en
 - Deep Learning (AI)
 
 ## Contact Me
-- Email: [sanketgore@example.com](mailto:sanketgore@example.com)
-- LinkedIn: [Sanket Gore](https://www.linkedin.com/in/sanketgore/)
+- Email: [sanketgore1998@gmail.com](mailto:sanketgore1998@gmail.com)
+- LinkedIn: [Sanket Gore](https://www.linkedin.com/in/sanket-gore-95bb49177/)
+- Kaggel : [Sanket Gore](https://www.kaggle.com/sanketgore10)
 
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on exciting projects! Let's connect and build something amazing together.
