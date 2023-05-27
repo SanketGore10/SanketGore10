@@ -27,27 +27,25 @@ Hello there! I'm Sanket Gore, a passionate Flutter developer and data science en
 
 ### [Diabetes Detection]
 - Developed a machine learning model to predict the presence of diabetes based on various health attributes.
-- Implemented the model in a user-friendly Flutter application for easy accessibility.
 
 ### Mask Detection
-- Created a deep learning model to detect the presence of face masks in real-time images and videos.
-- Utilized Flutter to build an intuitive mobile app that can analyze live camera feeds and provide real-time mask detection.
+- Created a deep learning model to detect the presence of face masks in real-time images.
 
 ### Cat vs Dog Classification
 - Developed a convolutional neural network (CNN) model to classify images as either cats or dogs.
-- Created a Flutter application with a user-friendly interface to enable users to upload images and receive instant predictions.
+<!-- - Created a Flutter application with a user-friendly interface to enable users to upload images and receive instant predictions. -->
 
 ### Machine Translation
 - Built a natural language processing (NLP) model to translate text from one language to another.
-- Incorporated the model into a Flutter app, allowing users to translate sentences and phrases in real-time.
+<!-- - Incorporated the model into a Flutter app, allowing users to translate sentences and phrases in real-time. -->
 
 ### Fake News Detection
 - Developed a machine learning model to identify and classify fake news articles.
-- Created a user-friendly Flutter application that enables users to enter news articles and receive credibility scores.
+<!-- - Created a user-friendly Flutter application that enables users to enter news articles and receive credibility scores. -->
 
 ### Laptop Price Prediction
 - Utilized regression techniques to build a machine learning model for predicting laptop prices.
-- Designed a Flutter app that allows users to input laptop specifications and receive estimated prices.
+<!-- - Designed a Flutter app that allows users to input laptop specifications and receive estimated prices. -->
 
 ## Education
 - Bachelor of Engineering in Computer Science & Engineering
