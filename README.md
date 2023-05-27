@@ -23,7 +23,7 @@ Hello there! I'm Sanket Gore, a passionate Flutter developer and data science en
 - Deep Learning
 - Git
 
-## Projects
+## Major Projects
 
 ### [Diabetes Detection]
 - Developed a machine learning model to predict the presence of diabetes based on various health attributes.
