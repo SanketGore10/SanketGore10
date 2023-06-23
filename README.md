@@ -39,11 +39,11 @@ Hello there! I'm Sanket Gore, a passionate Flutter developer and data science en
 - Built a natural language processing (NLP) model to translate text from one language to another.
 <!-- - Incorporated the model into a Flutter app, allowing users to translate sentences and phrases in real-time. -->
 
-### Fake News Detection
+### [Fake News Detection](https://github.com/SanketGore10/Fake-News-Detection-Models)
 - Developed a machine learning model to identify and classify fake news articles.
 <!-- - Created a user-friendly Flutter application that enables users to enter news articles and receive credibility scores. -->
 
-### Laptop Price Prediction
+### [Laptop Price Prediction](https://github.com/SanketGore10/laptop-price-prediction-ml-webapp)
 - Utilized regression techniques to build a machine learning model for predicting laptop prices.
 <!-- - Designed a Flutter app that allows users to input laptop specifications and receive estimated prices. -->
 
