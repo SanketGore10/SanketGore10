@@ -16,16 +16,16 @@
 Hello there! I'm Sanket Gore, a passionate Flutter developer and data science enthusiast. I hold a Bachelor's degree in Computer Science & Engineering and have been actively working in the software development field for the past 6 months. I have a strong foundation in Flutter and have completed certifications in various areas of data science, including Python for Data Science, Machine Learning, and Deep Learning.
 
 ## Skills
-- Flutter App Development
 - Python
 - Data Science
 - Machine Learning
 - Deep Learning
 - Git
+- Flutter App Development
 
 ## Major Projects
 
-### [Diabetes Detection]
+### [Diabetes Detection](https://github.com/SanketGore10/Diabeties-Detection-ML-Model)
 - Developed a machine learning model to predict the presence of diabetes based on various health attributes.
 
 ### Mask Detection
