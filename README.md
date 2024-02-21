@@ -28,7 +28,7 @@ Hello there! I'm Sanket Gore, a passionate Flutter developer and data science en
 ### [Diabetes Detection](https://github.com/SanketGore10/Diabeties-Detection-ML-Model)
 - Developed a machine learning model to predict the presence of diabetes based on various health attributes.
 
-### Mask Detection
+### [Mask Detection](https://github.com/SanketGore10/mask-detection)
 - Created a deep learning model to detect the presence of face masks in real-time images.
 
 ### Cat vs Dog Classification
