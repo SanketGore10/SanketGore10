@@ -50,6 +50,7 @@ Hello there! I'm Sanket Gore, a passionate Flutter developer and data science en
 
 ## Education
 - Bachelor of Engineering in Computer Science & Engineering
+- Masters of Science in Data Science & Big Data Analysis
 
 ## Certifications
 - Python for Data Science
