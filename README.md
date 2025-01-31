@@ -21,6 +21,7 @@ Hello there! I'm Sanket Gore, a passionate Flutter developer and data science en
 - Machine Learning
 - Deep Learning
 - Git
+- FastAPI
 - Flutter App Development
 
 ## Major Projects
